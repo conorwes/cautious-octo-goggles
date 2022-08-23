@@ -1,2 +1,6 @@
-# cautious-octo-goggles
-Tool to scrape NTSB PPB files to retrieve data specific to desired tail numbers
+
+# Cautious Octo Goggles
+or: How I Learned to Stop Worrying and Love NTSB PPB Files.
+
+
+This is a project which can scrape PPB files to get information specific to desired tail numbers.
