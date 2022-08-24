@@ -65,6 +65,10 @@
         "xlocmon": "cpp",
         "xloctime": "cpp",
         "xtree": "cpp",
-        "regex": "cpp"
-    }
+        "regex": "cpp",
+        "filesystem": "cpp",
+        "list": "cpp"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
 }
